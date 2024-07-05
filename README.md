@@ -8,3 +8,4 @@ Analyzed customer churn data, built a predictive ML model, and deployed it using
 4. **Hyperparameter Tuning**
 5. **Model Evaluation**
 6. **Model Deployment using Gradio**
+![image](https://github.com/Babyshalinipriya/Customer_churn-prediction/assets/129202588/498b6040-a2e9-437b-a019-df970289e3f1)
